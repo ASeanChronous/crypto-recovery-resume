@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Sean's Skill Base|2025",
+  title: "Sean's Skill Base | 2025",
   description: "Created by Sean G. Perkins",
 };
 
